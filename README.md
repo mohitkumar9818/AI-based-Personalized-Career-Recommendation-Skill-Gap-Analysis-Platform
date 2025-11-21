@@ -6,4 +6,3 @@ The system extracts skills from a user’s resume, analyzes behavioral patterns 
 
 This project acts like a virtual career counselor, giving accurate and personalized career guidance using AI.
 
-K
